@@ -1,6 +1,7 @@
 Algoritmo sin_titulo
 	leer a
 	leer b
-	c=a+b
+	leer i
+	c=a+b+i
 	escribir c
 FinAlgoritmo
